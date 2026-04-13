@@ -1,4 +1,4 @@
-# Hi! I'm Yahel Cárdenas Celis 👋
+# Hi! I'm Yahel Cárdenas 👋
 
 **Data Science student at Universidad Politécnica de Yucatán (UPY)**, with a strong interest in **AI governance, ethical data systems, and socially responsible technology**.
 
